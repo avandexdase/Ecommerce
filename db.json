@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone",
+      "category": "mobile",
+      "description": "A smartphone made by Apple.",
+      "image": "/iphone.png",
+      "categoryId": 2
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy",
+      "category": "mobile",
+      "description": "A smartphone made by Samsung.",
+      "image": "/samsung-galaxy.png",
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "name": "MacBook Pro",
+      "category": "laptop",
+      "description": "A laptop made by Apple.",
+      "image": "/macbook-pro.png",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "HP Spectre x360",
+      "category": "laptop",
+      "description": "A laptop made by HP.",
+      "image": "/hp-spectre.png",
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "Dell XPS 13",
+      "category": "laptop",
+      "description": "A laptop made by Dell.",
+      "image": "/dell-xps.png",
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "name": "Sony WH-1000XM4",
+      "category": "speaker",
+      "description": "Noise-cancelling headphones made by Sony.",
+      "image": "/sony-headphones.png",
+      "categoryId": 3
+    },
+    {
+      "id": 7,
+      "name": "Bose SoundLink",
+      "category": "speaker",
+      "description": "A portable speaker made by Bose.",
+      "image": "/bose-soundlink.png",
+      "categoryId": 3
+    },
+    {
+      "id": 8,
+      "name": "JBL Flip 5",
+      "category": "speaker",
+      "description": "A portable speaker made by JBL.",
+      "image": "/jbl-flip.png",
+      "categoryId": 3
+    }
+  ],
+  "categories": [
+    { "id": 1, "name": "laptop" },
+    { "id": 2, "name": "mobile" },
+    { "id": 3, "name": "speaker" }
+  ],
+  "productDetails": [
+    {
+      "id": 1,
+      "name": "iPhone",
+      "category": "mobile",
+      "description": "A smartphone made by Apple.",
+      "image": "/iphone.png",
+      "categoryId": 2
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy",
+      "category": "mobile",
+      "description": "A smartphone made by Samsung.",
+      "image": "/samsung-galaxy.png",
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "name": "MacBook Pro",
+      "category": "laptop",
+      "description": "A laptop made by Apple.",
+      "image": "/macbook-pro.png",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "HP Spectre x360",
+      "category": "laptop",
+      "description": "A laptop made by HP.",
+      "image": "/hp-spectre.png",
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "Dell XPS 13",
+      "category": "laptop",
+      "description": "A laptop made by Dell.",
+      "image": "/dell-xps.png",
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "name": "Sony WH-1000XM4",
+      "category": "speaker",
+      "description": "Noise-cancelling headphones made by Sony.",
+      "image": "/sony-headphones.png",
+      "categoryId": 3
+    },
+    {
+      "id": 7,
+      "name": "Bose SoundLink",
+      "category": "speaker",
+      "description": "A portable speaker made by Bose.",
+      "image": "/bose-soundlink.png",
+      "categoryId": 3
+    },
+    {
+      "id": 8,
+      "name": "JBL Flip 5",
+      "category": "speaker",
+      "description": "A portable speaker made by JBL.",
+      "image": "/jbl-flip.png",
+      "categoryId": 3
+    }
+  ]
+}
